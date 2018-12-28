@@ -11,3 +11,4 @@ Voice is the new interface driving ambient computing. Speech recognition is tran
 Speech recognition is the inter-disciplinary sub-field of computational linguistics that develops methodologies and technologies that enables the recognition and translation of spoken language into text. It is also known as **automatic speech recognition (ASR)**, **computer speech recognition** or **speech to text (STT)**.
 
 Several API&#39;s are available in the cloud by various tech giants such as Microsoft, Google, IBM, etc., that convert spoken audio to text. Call the API to recognize audio coming from the microphone, from other real-time streaming audio sources, or from a recorded audio file. You can use the API to build voice-triggered smart apps.
+![Custom Speech Servie Process Flow](https://github.com/NitinRajS/ai-in-action/blob/master/Voice-to-Text%20or%20Speech-to-text/images/Custome_Speech_Flow.png?raw=true)
