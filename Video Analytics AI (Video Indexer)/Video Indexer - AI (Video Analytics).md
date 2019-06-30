@@ -1,4 +1,4 @@
-# Video Indexer (Video Analytics)
+# Video Indexer - AI (Video Analytics)
 
 Video analytics in artificial intelligence space is the capability of automatically analysing video to recognize humans, vehicles, objects and events.
 
